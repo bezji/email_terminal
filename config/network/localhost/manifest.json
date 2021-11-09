@@ -3,7 +3,7 @@
     "serverAddress": "localhost",
     "serverName": "Delta green database",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "DGO",
     "defaultUser": {
         "userId": "user",
         "password": "",
