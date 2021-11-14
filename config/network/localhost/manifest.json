@@ -2,7 +2,7 @@
     "year": "2008",
     "serverAddress": "localhost",
     "serverName": "Delta green database",
-    "iconName": "Moon-icon.png",
+    "iconName": "preview.png",
     "terminalID": "DGO",
     "defaultUser": {
         "userId": "user",
