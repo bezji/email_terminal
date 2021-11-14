@@ -15,12 +15,19 @@
         "from": "Josephus A. Miller",
         "to": ["Azathoth", "a"],
         "title": "Działania Delta Green",
-        "body": "Delikatnie zmieniam jak w teorii działa (bardziej w stylu SCP. Jesteście agentami działającymi w terenie, wy znajdujecie podejrzane rzeczy i je staracie się przejąć lub w ostateczności zneutralizować. W wypadku grożnych sytuacji wzywacie coś w stylu MTF.  Jak tylko robi się groźnie lub podejrzanie od razu zgłaszać, pewnie wciąż was zostawią samych póki macie wszystko pod kontrolą."
+        "body": "Delikatnie zmieniam jak w teorii działa (bardziej w stylu SCP). Jesteście agentami działającymi w terenie, wy znajdujecie podejrzane rzeczy i je staracie się przejąć lub w ostateczności zneutralizować. W wypadku grożnych sytuacji wzywacie coś w stylu MTF.  Jak tylko robi się groźnie lub podejrzanie od razu zgłaszać, pewnie wciąż was zostawią samych póki macie wszystko pod kontrolą."
     },
     {
         "from": "Handler",
         "to": ["Azathoth"],
         "title": "Spotkanie",
         "body": "Piątek 17.08.2008 godz. 19.00. Birmingham AL in Linn park across museum of art. Standardowy znak. Jeśli natraficie na przechodni udajcie że idziecie gdzieś indziej i próbujcie ponownie w odstępach 30 min."
+    }
+     },
+    {
+        "from": "Handler",
+        "to": ["Azathoth"],
+        "title": "Przypomnienie",
+        "body": "Pamiętajcie o naszej misji. Nikt nie może się dowiedzieć o czekających w mroku horrorach.  Robicie to dla dobra swoich bliskich i całejej ludzkości."
     }
 ]
