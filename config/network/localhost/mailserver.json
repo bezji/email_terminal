@@ -1,9 +1,9 @@
 [
     {
-        "from": "Traveller",
+        "from": "Handler",
         "to": ["AgentWiktor", "AgentNorbert", "AgentMarcin", "AgentRadek" ],
-        "title": "Misja",
-        "body": "tu będzie zagadka."
+        "title": "Ugodzenia sztyetami Cezara",
+        "body": "bęzżd: żćżx śęzr ę lolłbw Kbwgo zcłgż Śfz.  hasło:  O swojej przeszłości tak wiele wiecie  W niej, niedalekiej, odpowiedź znajdziecie  Teksty obrazem były wysłowione  Choć początkowo słowami zrobione"
     },
     {
         "from": "Software",
