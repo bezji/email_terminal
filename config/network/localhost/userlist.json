@@ -1,27 +1,30 @@
 [
     {
-        "userId": "AgentWiktor",
-        "password": "Poggers",
-        "userName": "SlavAbsol"
-    },
-
-        "userId": "AgentNorbert",
-        "password": "567",
-        "userName": "Tedi.exe"
-    },
-    {
-        "userId": "AgentMarcin",
-        "password": "plan",
-        "userName": "Graw19"
+        "userId": "8A73B5",
+        "password": "trustno1",
+        "userName": "Mulder, Fox"
     },
 
     {
-        "userId": "AgentRadek",
-        "password": "najebany",
-        "userName": "Troluks"
+        "userId": "a",
+        "password": "a",
+        "userName": "Mulder, Fox"
+    },
+
     {
-        "userId": "Azathoth",
-        "password": "Nigger",
-        "userName": "Operacja stare śmieci"
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+ {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+    
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
     }
 ]
